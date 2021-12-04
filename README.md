@@ -26,5 +26,5 @@ If you use this code for your research, please cite our paper:
 }
 ```
 
-## Codes Are Coming Soon
+## Code is Coming Soon
 
