@@ -18,13 +18,14 @@ Few-Shot Learning (FSL) is a challenging task, \emph{i.e.}, how to recognize nov
 
 If you use this code for your research, please cite our paper:
 ```
-@inproceedings{zhang2021metanode,
-	author    = {Zhang, Baoquan and Li, Xutao and Feng, Shanshan and Ye, Yunming and Ye, Rui},
-	title     = {MetaNODE: Prototype Optimization as a Neural ODE for Few-Shot Learning},
-	booktitle = {AAAI},
-	year      = {2022}
+@inproceedings{zhang2022metanode,
+  title={MetaNODE: Prototype optimization as a neural ODE for few-shot learning},
+  author={Zhang, Baoquan and Li, Xutao and Feng, Shanshan and Ye, Yunming and Ye, Rui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={8},
+  pages={9014--9021},
+  year={2022}
 }
 ```
-
-## Code is Coming Soon
 
